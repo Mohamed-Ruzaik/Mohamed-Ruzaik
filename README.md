@@ -1,63 +1,74 @@
-# Hi, I'm Mohamed Ruzaik 👋
+<div align="center">
 
-I'm a Software Engineering student from Sri Lanka building full-stack applications, developer tools, AI-assisted systems, utilities, game prototypes, and hands-on engineering experiments.
+<img src="./assets/terminal-profile.png" alt="Mohamed Ruzaik terminal profile banner" width="100%" />
 
-I like turning rough ideas into working products — from web platforms and desktop tools to automation-focused systems and practical hardware builds.
+<br/>
 
-## 🚀 What I'm focused on
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedruzaik.com-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedruzaik.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Ruzaik-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Ruzaik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ruzaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-* Full-stack web applications
-* Developer tools and desktop software
-* AI-assisted workflows and automation
-* DevOps fundamentals, Docker, CI/CD, and deployment
-* Practical system design and project architecture
+</div>
 
-## 🛠️ Tech I work with
+---
 
-React · TypeScript · FastAPI · Python · PostgreSQL · Supabase · Docker · GitHub Actions · AWS basics · Linux · Tauri · Electron · Unity · C#
+## `> whoami`
 
-## 📌 Featured Builds
+```yaml
+name: Mohamed Ruzaik
+role: Software Engineering Undergraduate
+location: Sri Lanka
+focus:
+  - Full-Stack Development
+  - AI Tools
+  - Developer Tools
+currently_building: Volt IDE
+```
 
-### CourseGrid LMS
+## `> tech --stack`
 
-A full-stack learning management system inspired by modern LMS platforms, with role-based workflows, structured documentation, Docker support, and DevOps-focused deployment planning.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,rust,tauri,nodejs,postgres,supabase,docker,git,github,vscode" alt="Tech stack" />
+</p>
 
-### Diagramify Mini
+## `> projects --featured`
 
-A lightweight diagram editor focused on clean UI, project-based editing, and cloud deployment practice.
+| Project | Description | Stack |
+|---|---|---|
+| **Volt IDE** | AI-native desktop IDE with Monaco, split panes, terminal, source control and workspace tooling | Tauri, Rust, React, TypeScript |
+| **Diagramify** | PlantUML diagram editor with authentication and cloud deployment | React, TypeScript, AWS |
+| **CourseGrid LMS** | Full-stack learning management platform with roles, quizzes and grades | React, FastAPI, PostgreSQL |
+| **MediConnect** | Healthcare platform for patients, doctors, pharmacies and digital prescriptions | FastAPI, React, PostgreSQL |
+| **VoltCode** | Lightweight desktop code editor and mini IDE shell | Tauri, React, TypeScript |
 
-### MediConnect
+## `> github --stats`
 
-A role-driven healthcare platform prototype designed around appointments, prescriptions, medical records, and hospital/pharmacy workflows.
+<div align="center">
 
-### doc-classifier
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ruzaik&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub stats" />
 
-A document classification system using OCR, TF-IDF, and FastAPI to process and classify documents.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ruzaik&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
 
-### HomePage
+</div>
 
-A custom browser start page for daily shortcuts, search, time, weather, and focus-based browsing.
+<div align="center">
 
-### Realmwalker - The Forgotten Path
+<img src="https://streak-stats.demolab.com?user=Mohamed-Ruzaik&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
-A playable Unity 2D action-platformer prototype with custom levels, enemies, abilities, and game flow systems.
+</div>
 
-### Custom Newtonian Reflector Telescope
+## `> contact --open`
 
-A functional 114 mm Newtonian reflector telescope built using accessible materials, mechanical design, optics, and hands-on testing.
+```text
+Portfolio : mohamedruzaik.com
+GitHub    : github.com/Mohamed-Ruzaik
+Status    : building, learning, shipping
+```
 
-## 🔒 Private / Experimental Work
+<div align="center">
 
-### Pixel Forge Studio
+```text
+"building tools, shipping ideas, solving real problems."
+```
 
-A private desktop creative tool exploring AI-assisted visual workflows.
-
-### Volt IDE
-
-A private AI-assisted developer environment focused on project navigation, editing, and workflow automation.
-
-## 🌐 Links
-
-* Portfolio: https://mohamedruzaik.com
-* LinkedIn: https://www.linkedin.com/in/mohamedruzaik
-* GitHub: https://github.com/Mohamed-Ruzaik
+</div>
