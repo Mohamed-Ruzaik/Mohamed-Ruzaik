@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="./assets/terminal-profile.png" alt="Mohamed Ruzaik Terminal Profile" width="100%" />
+# Mohamed Ruzaik
 
-# Hi, I'm Mohamed Ruzaik 👋
+### Software Engineering Undergraduate · Developer Tools · Desktop Apps · Full-Stack Systems
 
-### Software Engineering Undergraduate · Full-Stack Developer · Developer Tool Builder
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+developer+tools+and+desktop+software;Exploring+AI-assisted+developer+workflows;Turning+ideas+into+working+products"
+alt="Typing introduction"
+/>
+
+<br/>
 
 [Portfolio](https://mohamedruzaik.com) ·
 [GitHub](https://github.com/Mohamed-Ruzaik)
@@ -17,66 +22,82 @@
 
 ```yaml
 name: Mohamed Ruzaik
-role: Software Engineering Undergraduate
 location: Sri Lanka
+role: Software Engineering Undergraduate
 
-focus:
-  - Full-Stack Development
-  - AI Tools
+interests:
   - Developer Tools
   - Desktop Applications
+  - AI-Assisted Software
+  - Full-Stack Systems
 
-currently_building: VoltCode
+currently_exploring:
+  - AI-assisted developer workflows
+  - Desktop software architecture
+  - Local-first applications
+  - Multi-model and agent-based systems
 ```
 
-## `> tech --stack`
+## `> stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,fastapi,nodejs,rust,tauri,postgres,supabase,docker,githubactions,git,linux,vite" alt="Technology stack" />
+
+</div>
+
+<br/>
 
 ```text
-Frontend    : React, TypeScript, JavaScript
-Backend     : FastAPI, Python, Node.js
-Desktop     : Tauri, Rust
-Database    : PostgreSQL, Supabase
-DevOps      : Docker, GitHub Actions
-Tools       : Git, GitHub, VS Code, Linux
+Languages   : TypeScript · JavaScript · Python · Rust
+Frontend    : React · Vite
+Backend     : FastAPI · Node.js
+Desktop     : Tauri · Electron
+Data        : PostgreSQL · Supabase
+DevOps      : Docker · GitHub Actions
 ```
 
 ## `> projects --featured`
 
-| Project | Description | Stack |
-|---|---|---|
-| **VoltCode** | Lightweight desktop code editor and mini IDE shell | Tauri, React, TypeScript |
-| **Diagramify** | PlantUML diagram editor with authentication and cloud deployment | React, TypeScript, AWS |
-| **CourseGrid LMS** | Full-stack learning management platform with roles, quizzes and grades | React, FastAPI, PostgreSQL |
-| **MediConnect** | Healthcare platform connecting patients, doctors, hospitals and pharmacies | FastAPI, React, PostgreSQL |
+| Project                                                                           | Description                                                                                                        | Stack                                  |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| **[Orbit Browser](https://github.com/Mohamed-Ruzaik/Orbit-Browser)**              | Windows desktop browser with sidebar tabs, private browsing, downloads, history, PDF support and local AI features | Electron · React · TypeScript · Rust   |
+| **[VoltCode](https://github.com/Mohamed-Ruzaik/VoltCode)**                        | Local-first developer workspace with Monaco editing, Git workflows, command execution and AI-assisted file edits   | Tauri · React · TypeScript · Rust      |
+| **[CourseGrid LMS](https://github.com/Mohamed-Ruzaik/CourseGrid-LMS)**            | Full-stack LMS with separate admin, instructor and student workflows, assignments, grading and analytics           | React · FastAPI · PostgreSQL · Docker  |
+| **[MediConnect](https://github.com/Mohamed-Ruzaik/MediConnect)** · *Team Project* | Multi-role healthcare platform connecting patients, doctors, hospitals and pharmacies                              | React · FastAPI · PostgreSQL           |
+| **[Diagramify Mini](https://github.com/Mohamed-Ruzaik/Diagramify-Mini)**          | Authenticated PlantUML workspace with live preview, import/export and local diagram persistence                    | React · TypeScript · AWS Cognito       |
+| **[Document Classifier](https://github.com/Mohamed-Ruzaik/Doc-Classifier)**       | OCR-based document classifier for PDFs and images with confidence-ranked predictions                               | FastAPI · Tesseract OCR · scikit-learn |
 
-## `> currently --learning`
+## `> what --i-build`
+
+```text
+Developer tooling     → editors, IDE-style workflows, local workspace tools
+Desktop software      → native integrations, browser and Tauri/Electron apps
+Full-stack systems    → APIs, databases, authentication and role-based workflows
+AI-assisted software  → model integrations, AI editing and workflow experiments
+```
+
+## `> currently --exploring`
 
 ```text
 AI-assisted developer workflows
+Local-first developer software
 Desktop application architecture
+Multi-model / agent-based systems
 DevOps and deployment automation
-System design and scalable backend development
 ```
 
-## `> github --activity`
-
-My public repositories, contributions and current projects are available on my
-[GitHub profile](https://github.com/Mohamed-Ruzaik).
-
-## `> contact --open`
+## `> contact`
 
 ```text
 Portfolio : mohamedruzaik.com
 GitHub    : github.com/Mohamed-Ruzaik
-Status    : building, learning, shipping
 ```
 
 ---
 
 <div align="center">
 
-```text
-"Building tools, shipping ideas, solving real problems."
-```
+### Building tools, experimenting with ideas, and shipping software.
 
 </div>
